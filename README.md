@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm OTMAN BAKKAR</h1>
 <h3 align="center">I am new to hacking im froom moroco🇲🇦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=th-hack&label=Profile%20views&color=0e75b6&style=flat" alt="th-hack" /> </p>
+<p align="left"> <img src="https://i.postimg.cc/NjNjfPXG/giphy.gif&style=flat" alt="th-hack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th-hack" alt="th-hack" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [My Profill](https://i.postimg.cc/NjNjfPXG/giphy.gif)
+- I am currently studying in [3eme🪶](https://i.postimg.cc/NjNjfPXG/giphy.gif)
 
-- 👯 I’m looking to collaborate on **🧑‍💻🥷**
+- I live in a country **Moroco🇲🇦**
+
+- Currently working **I am not working🧑‍💻**
 
 - 📫 How to reach me **frah7834@gmail.com**
 
