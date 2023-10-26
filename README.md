@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm OTMAN BAKKAR</h1>
 <h3 align="center">I am new to hacking im froom moroco🇲🇦</h3>
 
-<p align="left"> <img src="https://i.postimg.cc/NjNjfPXG/giphy.gif&style=flat" alt="th-hack" /> </p>
+<p align="left"> <img src="https://i.postimg.cc/NjNjfPXG/giphy.gif&style=flat: 50%;" alt="th-hack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th-hack" alt="th-hack" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I am currently studying in [3eme🪶](https://i.postimg.cc/NjNjfPXG/giphy.gif)
+- I am currently studying in [3eme🪶]
 
 - I live in a country **Moroco🇲🇦**
 
