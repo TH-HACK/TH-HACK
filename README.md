@@ -1,27 +1,38 @@
 <h1 align="center">Hi 👋, I'm OTMAN BAKKAR</h1>
 <h3 align="center">I am new to hacking im froom moroco🇲🇦</h3>
 
-<p align="left"> <img src="https://i.postimg.cc/NjNjfPXG/giphy.gif&style=flat" alt="th-hack" /> </p>
+<p align="left"> <img src="https://i.postimg.cc/NjNjfPXG/giphy.gif&style=flat" alt="th-hack" /> </p
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=th-hack" alt="th-hack" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - I am currently studying in [3eme🪶]
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - I live in a country **Moroco🇲🇦**
+ <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - Currently working **I am not working🧑‍💻**
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - 📫 How to reach me **frah7834@gmail.com**
 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 - ⚡ Fun fact **💗👋**
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/12.00.00hh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="12.00.00hh" height="30" width="40" /></a>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+  
 <a href="https://instagram.com/12.00.00h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="12.00.00h" height="30" width="40" /></a>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 <a href="https://www.youtube.com/c/techno hack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techno hack" height="30" width="40" /></a>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
