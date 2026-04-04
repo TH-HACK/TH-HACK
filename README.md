@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OTMAN BAKKAR</h1>
+<h1 align="center">Hi 👋, I'm OT</h1>
 <h3 align="center">I am new to hacking im froom moroco🇲🇦</h3>
 
 <p align="left"> <img src="https://i.postimg.cc/NjNjfPXG/giphy.gif&style=flat" alt="th-hack" /> </p
@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- I am currently studying in [3eme🪶]
+- I am  her
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - I live in a country **Moroco🇲🇦**
@@ -18,7 +18,7 @@
 - Currently working **I am not working🧑‍💻**
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📫 How to reach me **frah7834@gmail.com**
+- 📫 How to reach me ****
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 - ⚡ Fun fact **💗👋**
